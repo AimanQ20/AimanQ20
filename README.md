@@ -25,7 +25,10 @@ Kali Linux · Wireshark · Nmap . VMware · pfSense . Suricata . Zeek . Cowrie a
 |----------|--------------|------|
 | 🌐 **Anime Atlas Website** | HTML/CSS project exploring Japan through anime | Web Dev |
 | 📂 **POSIX API Behavior Study** | Mini system security experiment analyzing POSIX file APIs under edge conditions | C++, Linux |
-
+| 📊 **Social Network Analysis Project - DAA** | Analyzes a large-scale social network using Dijkstra's algorithm, A* search, and dynamic programming | Dijkstra · A* · DP |
+| 🗄️ **Database Forensics Using Logs, Memory Artifacts, and Blockchain** | Semester project analyzing transaction logs, memory artifacts, and blockchain-based evidence preservation | Database Forensics · Blockchain · Memory Analysis |
+| 🛡️ **Network Honeypot System for Attack Detection and Analysis** | Monitors and analyzes cyberattacks using Cowrie & Dionaea honeypots integrated with ELK Stack | Cowrie · Dionaea · ELK · Honeypot |
+| 🎨 **Elite Bank Figma File** | Figma design of a semester project web application “Elite Bank” | Figma · UI/UX |
 ---
 
 ### 🌍 Let’s Connect
