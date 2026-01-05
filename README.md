@@ -15,15 +15,17 @@
 - 🧰 Also diving into machine learning and how it can be used in cybersecurity
 ---
 ### 🧰 Tech Stack
-**Languages:** C++, Assembly (MASM), Python (beginner), HTML, CSS, JavaScript  
+**Languages:** C++, Assembly (MASM), Python, HTML, CSS, JavaScript  
 **Tools & Platforms:**  
-Kali Linux · Wireshark · Nmap . VMware · pfSense  
+Kali Linux · Wireshark · Nmap . VMware · pfSense . Suricata . Zeek . Cowrie and Dionaea honeypot . ELK stack . Network Miner
 **Other Interests:** Web Security · OS Internals · AI
 
 ### 🧪 My Projects
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🌐 **Anime Atlas Website** | HTML/CSS project exploring Japan through anime | Web Dev |
+| 📂 **POSIX API Behavior Study** | Mini system security experiment analyzing POSIX file APIs under edge conditions | C++, Linux |
+
 ---
 
 ### 🌍 Let’s Connect
