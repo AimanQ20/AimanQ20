@@ -34,6 +34,7 @@ Kali Linux · Wireshark · Nmap . VMware · pfSense . Suricata . Zeek . Cowrie a
 | 🌐 Socket Programming: TCP vs UDP | Practical comparison of TCP and UDP using socket programming to analyze reliability, latency, and data transmission behavior | Networking · TCP · UDP · Sockets |
 | 🔥 Firewall Configuration and Testing | Hands-on project focused on configuring firewall rules, testing network traffic, and analyzing access control behavior | Firewall · Network Security · Packet Filtering |
 | 📡 Exploring WiFi Pumpkin | Security exploration of rogue access points and man-in-the-middle attacks using WiFi Pumpkin in a controlled lab environment | Wireless Security · MITM · WiFi Pumpkin |
+| 🌍 Cybersecurity Infrastructure Challenges in Emerging Economies | Conceptual research study examining cybersecurity challenges in emerging economies from a systems perspective, focusing on infrastructure limitations, policy gaps, and human-centered security issues | Cybersecurity · Infrastructure · Policy · Socio-Technical Systems |
 ---
 
 ### 🌍 Let’s Connect
