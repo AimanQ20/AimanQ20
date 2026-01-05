@@ -29,6 +29,11 @@ Kali Linux · Wireshark · Nmap . VMware · pfSense . Suricata . Zeek . Cowrie a
 | 🗄️ **Database Forensics Using Logs, Memory Artifacts, and Blockchain** | Semester project analyzing transaction logs, memory artifacts, and blockchain-based evidence preservation | Database Forensics · Blockchain · Memory Analysis |
 | 🛡️ **Network Honeypot System for Attack Detection and Analysis** | Monitors and analyzes cyberattacks using Cowrie & Dionaea honeypots integrated with ELK Stack | Cowrie · Dionaea · ELK · Honeypot |
 | 🎨 **Elite Bank Figma File** | Figma design of a semester project web application “Elite Bank” | Figma · UI/UX |
+| 🎮 Emerging Cyber Threats in Gaming Industry | Research project analyzing modern cyber threats in online gaming platforms, including cheating, fraud, DDoS attacks, and account compromise | Cyber Security · Gaming · Threat Analysis |
+| 🔨 DLD Whack-a-Mole Project | Digital logic design implementation of the Whack-a-Mole game demonstrating combinational and sequential circuit concepts | DLD · Logic Circuits · FSM |
+| 🌐 Socket Programming: TCP vs UDP | Practical comparison of TCP and UDP using socket programming to analyze reliability, latency, and data transmission behavior | Networking · TCP · UDP · Sockets |
+| 🔥 Firewall Configuration and Testing | Hands-on project focused on configuring firewall rules, testing network traffic, and analyzing access control behavior | Firewall · Network Security · Packet Filtering |
+| 📡 Exploring WiFi Pumpkin | Security exploration of rogue access points and man-in-the-middle attacks using WiFi Pumpkin in a controlled lab environment | Wireless Security · MITM · WiFi Pumpkin |
 ---
 
 ### 🌍 Let’s Connect
