@@ -1,44 +1,100 @@
-#  Hey there!! I'm Aiman Qureshi  
+# Aiman Qureshi
 
-🎓 **Cybersecurity Student | Ethical Hacking Enthusiast | Developer**  
-💻 Passionate about building secure systems and exploring how technology works 
-🌍 Based in Pakistan | Aspiring to contribute to global cybersecurity research and development.  
----
-### 🧩 About Me
-- 🧠 Currently studying **BS Cyber Security** (3rd Year)  
-- 💡 Exploring **network security, penetration testing, and ethical hacking**
-- 🧰 Love working with **C++**, **Assembly (MASM)**, **python** and **Linux tools**  
----
-### 🧑‍💻 Current Focus
-- 🔍 Strengthening my **network security & ethical hacking** skills  
-- 🌱 Learning **javascript** and **html + css** for web development
-- 🧰 Also diving into machine learning and how it can be used in cybersecurity
----
-### 🧰 Tech Stack
-**Languages:** C++, Assembly (MASM), Python, HTML, CSS, JavaScript  
-**Tools & Platforms:**  
-Kali Linux · Wireshark · Nmap . VMware · pfSense . Suricata . Zeek . Cowrie and Dionaea honeypot . ELK stack . Network Miner
-**Other Interests:** Web Security · OS Internals · AI
+Cybersecurity Undergraduate | AI Security Research | Secure AI Systems
 
-### 🧪 My Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🌐 **Anime Atlas Website** | HTML/CSS project exploring Japan through anime | Web Dev |
-| 📂 **POSIX API Behavior Study** | Mini system security experiment analyzing POSIX file APIs under edge conditions | C++, Linux |
-| 📊 **Social Network Analysis Project - DAA** | Analyzes a large-scale social network using Dijkstra's algorithm, A* search, and dynamic programming | Dijkstra · A* · DP |
-| 🗄️ **Database Forensics Using Logs, Memory Artifacts, and Blockchain** | Semester project analyzing transaction logs, memory artifacts, and blockchain-based evidence preservation | Database Forensics · Blockchain · Memory Analysis |
-| 🛡️ **Network Honeypot System for Attack Detection and Analysis** | Monitors and analyzes cyberattacks using Cowrie & Dionaea honeypots integrated with ELK Stack | Cowrie · Dionaea · ELK · Honeypot |
-| 🎨 **Elite Bank Figma File** | Figma design of a semester project web application “Elite Bank” | Figma · UI/UX |
-| 🎮 Emerging Cyber Threats in Gaming Industry | Research project analyzing modern cyber threats in online gaming platforms, including cheating, fraud, DDoS attacks, and account compromise | Cyber Security · Gaming · Threat Analysis |
-| 🔨 DLD Whack-a-Mole Project | Digital logic design implementation of the Whack-a-Mole game demonstrating combinational and sequential circuit concepts | DLD · Logic Circuits · FSM |
-| 🌐 Socket Programming: TCP vs UDP | Practical comparison of TCP and UDP using socket programming to analyze reliability, latency, and data transmission behavior | Networking · TCP · UDP · Sockets |
-| 🔥 Firewall Configuration and Testing | Hands-on project focused on configuring firewall rules, testing network traffic, and analyzing access control behavior | Firewall · Network Security · Packet Filtering |
-| 📡 Exploring WiFi Pumpkin | Security exploration of rogue access points and man-in-the-middle attacks using WiFi Pumpkin in a controlled lab environment | Wireless Security · MITM · WiFi Pumpkin |
-| 🌍 Cybersecurity Infrastructure Challenges in Emerging Economies | Conceptual research study examining cybersecurity challenges in emerging economies from a systems perspective, focusing on infrastructure limitations, policy gaps, and human-centered security issues | Cybersecurity · Infrastructure · Policy · Socio-Technical Systems |
+I am a Cybersecurity undergraduate at FAST-NUCES, Islamabad, with a growing research interest in secure and trustworthy artificial intelligence. My work focuses on AI security, autonomous AI agents, runtime security, and enterprise AI governance.
+
+I'm particularly interested in understanding how AI agents reason, use tools, maintain memory, and make decisions—and how those behaviors can be monitored, constrained, and secured in enterprise environments.
+
+Currently, I'm building projects that combine cybersecurity, machine learning, and software engineering while preparing for graduate research in AI Security.
+
 ---
 
-### 🌍 Let’s Connect
-📫 **Email:** aimanqureshi172005@gmail.com
+## Current Research Interests
 
+* AI Security
+* Autonomous AI Agents
+* Runtime Security
+* AI Governance & Policy Enforcement
+* System and Software Security
+* Cloud & Distributed Systems Security
+* Machine Learning for Cybersecurity
+
+---
+
+## Current Work
+
+* Researching AI agent architectures, reasoning, planning, memory, and tool use
+* Developing PRISM, an enterprise AI security platform for secure interaction with generative AI
+* Exploring runtime monitoring and behavioral analysis for autonomous AI agents
+* Building machine learning pipelines for cybersecurity and risk analysis
+
+---
+
+## Technical Skills
+
+### Programming
+
+Python • C++ • SQL • JavaScript • HTML/CSS
+
+### AI & Machine Learning
+
+Scikit-learn • XGBoost • LightGBM • Feature Engineering • Data Analysis • Model Evaluation
+
+### Cybersecurity
+
+Linux • Wireshark • Suricata • Zeek • Wazuh • Network Security • Threat Analysis • Digital Forensics
+
+### Development & Tools
+
+Git • GitHub • REST APIs • Postman • Streamlit • Microsoft Office • Google Workspace
+
+---
+
+## Selected Projects
+
+### PRISM — Prompt and Interaction Security Monitor
+
+Enterprise security platform designed to monitor and secure employee interactions with generative AI systems through configurable organizational policies.
+
+**Technologies:** Python • OCR • AI Security • Policy Enforcement
+
+---
+
+### Credit Risk Prediction using Machine Learning
+
+Built an end-to-end machine learning pipeline using the Home Credit Default Risk dataset, including ETL, feature engineering, predictive modeling, and interactive dashboard development.
+
+**Technologies:** Python • SQL • XGBoost • LightGBM • Streamlit
+
+---
+
+### Network Honeypot System
+
+Designed a honeypot environment using Cowrie and Dionaea integrated with the ELK Stack for attack monitoring and log analysis.
+
+**Technologies:** Cowrie • Dionaea • ELK Stack
+
+---
+
+### Database Forensics using Logs, Memory Artifacts and Blockchain
+
+Academic project investigating database forensic techniques through transaction log analysis, memory artifact collection, and blockchain-based evidence preservation.
+
+---
+
+## Goals
+
+My long-term goal is to contribute to research in secure AI systems while building technologies that enable organizations to safely deploy autonomous AI agents.
+
+I am particularly interested in runtime monitoring, behavioral analysis, policy enforcement, and enterprise AI governance.
+
+---
+
+## Connect
+
+**Email:** [aimanqureshi172005@gmail.com](mailto:aimanqureshi172005@gmail.com)
+
+**LinkedIn:** linkedin.com/in/aiman-qureshi
 
 
