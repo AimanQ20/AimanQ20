@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-  Cybersecurity Undergraduate at FAST-NUCES &nbsp;|&nbsp; Building Secure Enterprise AI Systems
+  <img src="fast-logo.png" alt="FAST-NUCES" height="22" valign="middle">
+  &nbsp;&nbsp;Cybersecurity Undergraduate at FAST-NUCES &nbsp;|&nbsp; Building Secure Enterprise AI Systems
 </p>
 
 <p align="center">
