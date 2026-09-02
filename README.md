@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aiman_banner.png" alt="Aiman Banner" width="100%">
+  <img src="aiman_banner.jpg" alt="Aiman Banner" width="100%">
 </p>
 
 <h1 align="center">Aiman Qureshi</h1>
