@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aiman_banner.jpg" alt="Aiman Banner" width="100%">
+  <img src="aiman-banner.jpg" alt="Aiman Banner" width="100%">
 </p>
 
 <h1 align="center">Aiman Qureshi</h1>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="fast-logo.png" alt="FAST-NUCES" height="80" valign="middle">
+  <img src="fast-logo.png" alt="FAST-NUCES" height="100" valign="middle">
   &nbsp;&nbsp;Cybersecurity Undergraduate at FAST-NUCES &nbsp;|&nbsp; Building Secure Enterprise AI Systems
 </p>
 
