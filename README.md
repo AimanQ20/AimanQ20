@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="fast-logo.png" alt="FAST-NUCES" height="50" valign="middle">
+  <img src="fast-logo.png" alt="FAST-NUCES" height="60" valign="middle">
   &nbsp;&nbsp;Cybersecurity Undergraduate at FAST-NUCES &nbsp;|&nbsp; Building Secure Enterprise AI Systems
 </p>
 
