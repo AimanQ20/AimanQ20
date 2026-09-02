@@ -1,100 +1,170 @@
-# Aiman Qureshi
+<p align="center">
+  <img src="aiman_banner.png" alt="Aiman Banner" width="100%">
+</p>
 
-Cybersecurity Undergraduate | AI Security Research | Secure AI Systems
+<h1 align="center">Aiman Qureshi</h1>
 
-I am a Cybersecurity undergraduate at FAST-NUCES, Islamabad, with a growing research interest in secure and trustworthy artificial intelligence. My work focuses on AI security, autonomous AI agents, runtime security, and enterprise AI governance.
+<p align="center">
+  <strong>AI Security Research • Autonomous AI Agents • Runtime Security • AI Governance</strong>
+</p>
 
-I'm particularly interested in understanding how AI agents reason, use tools, maintain memory, and make decisions—and how those behaviors can be monitored, constrained, and secured in enterprise environments.
-
-Currently, I'm building projects that combine cybersecurity, machine learning, and software engineering while preparing for graduate research in AI Security.
-
----
-
-## Current Research Interests
-
-* AI Security
-* Autonomous AI Agents
-* Runtime Security
-* AI Governance & Policy Enforcement
-* System and Software Security
-* Cloud & Distributed Systems Security
-* Machine Learning for Cybersecurity
+<p align="center">
+Cybersecurity Undergraduate at FAST-NUCES | Building Secure Enterprise AI Systems
+</p>
 
 ---
 
-## Current Work
+## About Me
 
-* Researching AI agent architectures, reasoning, planning, memory, and tool use
-* Developing PRISM, an enterprise AI security platform for secure interaction with generative AI
-* Exploring runtime monitoring and behavioral analysis for autonomous AI agents
-* Building machine learning pipelines for cybersecurity and risk analysis
+I'm a Cybersecurity undergraduate at **FAST National University of Computer and Emerging Sciences (FAST-NUCES), Pakistan**, with a strong interest in securing the next generation of intelligent systems.
+
+My research focuses on understanding how autonomous AI agents operate, how they interact with tools and external systems, and how they can be monitored, governed, and secured in enterprise environments.
+
+I'm particularly interested in bridging cybersecurity and artificial intelligence by developing practical solutions for trustworthy AI deployment.
+
+---
+
+## Research Interests
+
+- AI Security
+- Autonomous AI Agents
+- Runtime Security
+- AI Governance
+- Agent Behavior Analysis
+- Enterprise AI Security
+- LLM Security
+- System & Software Security
+- Cloud Security
+
+---
+
+## Current Focus
+
+- Researching AI Agent Architectures
+- Runtime Monitoring & Behavioral Analysis of Autonomous Agents
+- Enterprise AI Governance
+- AI Policy Enforcement
+- Secure Tool Calling & Execution
+- Preparing for graduate research in AI Security
+
+---
+
+## Featured Projects
+
+### PRISM — Prompt & Interaction Security Monitor *(Final Year Project)*
+
+An enterprise AI security platform that monitors interactions with generative AI systems to reduce organizational data leakage.
+
+**Key Features**
+
+- Prompt inspection
+- OCR-based document scanning
+- Sensitive data detection
+- Enterprise policy enforcement
+- Risk scoring
+- Configurable organizational security policies
+
+---
+
+### Enterprise Credit Risk Prediction Pipeline
+
+Designed and developed an end-to-end machine learning pipeline for borrower credit risk prediction using the Home Credit Default Risk dataset.
+
+Highlights:
+
+- Data preprocessing & ETL
+- Feature Engineering
+- XGBoost
+- LightGBM
+- Model Evaluation
+- Interactive Dashboard
+
+---
+
+### AI Runtime Security Research *(Ongoing)*
+
+Independent research exploring secure execution of autonomous AI agents.
+
+Current areas include:
+
+- Runtime monitoring
+- Behavioral anomaly detection
+- Policy-as-Code
+- Secure tool execution
+- AI governance frameworks
+- Enterprise deployment security
 
 ---
 
 ## Technical Skills
 
-### Programming
+### Programming Languages
 
-Python • C++ • SQL • JavaScript • HTML/CSS
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql,bash" />
+</p>
 
 ### AI & Machine Learning
 
-Scikit-learn • XGBoost • LightGBM • Feature Engineering • Data Analysis • Model Evaluation
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+</p>
+
+### Development & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,postman" />
+</p>
 
 ### Cybersecurity
 
-Linux • Wireshark • Suricata • Zeek • Wazuh • Network Security • Threat Analysis • Digital Forensics
-
-### Development & Tools
-
-Git • GitHub • REST APIs • Postman • Streamlit • Microsoft Office • Google Workspace
-
----
-
-## Selected Projects
-
-### PRISM — Prompt and Interaction Security Monitor
-
-Enterprise security platform designed to monitor and secure employee interactions with generative AI systems through configurable organizational policies.
-
-**Technologies:** Python • OCR • AI Security • Policy Enforcement
+- Zeek
+- Suricata
+- Wazuh
+- Wireshark
+- Nmap
+- Kali Linux
+- ELK Stack
+- VMware
+- Network Traffic Analysis
+- Threat Detection
 
 ---
 
-### Credit Risk Prediction using Machine Learning
+## Current Goals
 
-Built an end-to-end machine learning pipeline using the Home Credit Default Risk dataset, including ETL, feature engineering, predictive modeling, and interactive dashboard development.
-
-**Technologies:** Python • SQL • XGBoost • LightGBM • Streamlit
-
----
-
-### Network Honeypot System
-
-Designed a honeypot environment using Cowrie and Dionaea integrated with the ELK Stack for attack monitoring and log analysis.
-
-**Technologies:** Cowrie • Dionaea • ELK Stack
+- Publish research in AI Security
+- Pursue a Master's focused on AI Security
+- Build enterprise security solutions for autonomous AI systems
+- Contribute to trustworthy AI research
 
 ---
 
-### Database Forensics using Logs, Memory Artifacts and Blockchain
+## GitHub Statistics
 
-Academic project investigating database forensic techniques through transaction log analysis, memory artifact collection, and blockchain-based evidence preservation.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AimanQ20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimanQ20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## Goals
-
-My long-term goal is to contribute to research in secure AI systems while building technologies that enable organizations to safely deploy autonomous AI agents.
-
-I am particularly interested in runtime monitoring, behavioral analysis, policy enforcement, and enterprise AI governance.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AimanQ20&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## Connect
 
-**Email:** [aimanqureshi172005@gmail.com](mailto:aimanqureshi172005@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/aiman-qureshi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-**LinkedIn:** linkedin.com/in/aiman-qureshi
+<a href="mailto:aimanqureshi172005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
+---
 
+> *"Building trustworthy AI systems through secure design, runtime monitoring, and governance."*
